@@ -1,1 +1,1 @@
-shop
+Ororus E-Commerce
